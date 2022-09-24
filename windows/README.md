@@ -19,3 +19,8 @@ follow this
 [tut](https://www.addictivetips.com/windows-tips/install-custom-keyboard-windows-10/)
 
 download the `.klc` file and load it to the layout creator then buid dll.
+
+## warning: ctrl layer doesn't work somehow... not sure why
+
+Theres an [autohotkey](https://www.autohotkey.com/) script as an alternative.
+Works well in my experience.
