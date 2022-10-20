@@ -18,7 +18,7 @@ keyboards.
 follow this
 [tut](https://www.addictivetips.com/windows-tips/install-custom-keyboard-windows-10/)
 
-download the `.klc` file and load it to the layout creator then buid dll.
+download the `.klc` file and load it to the layout creator then build dll.
 
 ## warning: ctrl layer doesn't work somehow... not sure why
 
