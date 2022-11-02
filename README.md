@@ -1,6 +1,6 @@
 # prime_colemak
 
-This is a keyboard layout based on
+This is based on
 [the_primeagen's](https://github.com/ThePrimeagen/keyboards) keyboard layout.
 Keys are remapped while using the kinesis 360, so they work the best for other
 keyboards.
